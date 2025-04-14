@@ -13,7 +13,7 @@ public class ExcelFileReader {
         String excelvalue="";
         try{ 
             FileInputStream file1 = new FileInputStream(Base.prop.getProperty("excel"));
-            
+
             XSSFWorkbook work = new XSSFWorkbook(file1);
             XSSFSheet sheet1 = work.getSheet(sheet);
             XSSFRow row1 = sheet1.getRow(row);
