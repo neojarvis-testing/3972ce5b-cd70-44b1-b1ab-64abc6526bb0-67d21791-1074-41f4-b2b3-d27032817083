@@ -23,6 +23,7 @@
 /home/coder/project/workspace/Project/src/test/java/uistore/NykaaLuxeLoc.java
 /home/coder/project/workspace/Project/src/test/java/Pages/NykaaPillowProduct.java
 /home/coder/project/workspace/Project/src/test/java/uistore/HomePageLocators.java
+/home/coder/project/workspace/Project/src/test/java/stepdefinition/NykaaLuxeStep.java
 /home/coder/project/workspace/Project/src/test/java/stepdefinition/BeautyToGo.java
 /home/coder/project/workspace/Project/src/test/java/utils/LoggerHandler.java
 /home/coder/project/workspace/Project/src/test/java/uistore/OfferZoneLoc.java
@@ -31,6 +32,7 @@
 /home/coder/project/workspace/Project/src/test/java/Pages/NykaaLuxe.java
 /home/coder/project/workspace/Project/src/test/java/uistore/NykaaKurtaProductLoc.java
 /home/coder/project/workspace/Project/src/test/java/Pages/TestCaseTenModuleTwo.java
+/home/coder/project/workspace/Project/src/test/java/pages/NykaaHomePage.java
 /home/coder/project/workspace/Project/src/test/java/stepdefinition/KajalStep.java
 /home/coder/project/workspace/Project/src/test/java/stepdefinition/KurtaLogin.java
 /home/coder/project/workspace/Project/src/test/java/Pages/TestCase5Actions.java
@@ -40,6 +42,8 @@
 /home/coder/project/workspace/Project/src/test/java/Pages/TestCaseTenModuleThree.java
 /home/coder/project/workspace/Project/src/test/java/Pages/NykaaHomePage.java
 /home/coder/project/workspace/Project/src/test/java/uistore/NaturalFaceWahLoc.java
+/home/coder/project/workspace/Project/src/test/java/pages/NykaaMan.java
+/home/coder/project/workspace/Project/src/test/java/runner/TestRunner.java
 /home/coder/project/workspace/Project/src/test/java/Pages/AddToCartAction.java
 /home/coder/project/workspace/Project/src/test/java/Pages/NewLaunchesAction.java
 /home/coder/project/workspace/Project/src/test/java/uistore/NykaaManLoc.java
@@ -47,6 +51,7 @@
 /home/coder/project/workspace/Project/src/test/java/Pages/NykaaHomeSearch.java
 /home/coder/project/workspace/Project/src/test/java/utils/ExcelFileReader.java
 /home/coder/project/workspace/Project/src/test/java/uistore/NykaaKurtaLoginLoc.java
+/home/coder/project/workspace/Project/src/test/java/pages/NykaaLuxe.java
 /home/coder/project/workspace/Project/src/test/java/uistore/LocFooter.java
 /home/coder/project/workspace/Project/src/test/java/Pages/BeautyToGoAct.java
 /home/coder/project/workspace/Project/src/test/java/Pages/NykaaPillowSearch.java
@@ -72,3 +77,4 @@
 /home/coder/project/workspace/Project/src/test/java/uistore/NewLaunchesLoc.java
 /home/coder/project/workspace/Project/src/test/java/runner/ScriptTest.java
 /home/coder/project/workspace/Project/src/test/java/Pages/HomePageAct.java
+/home/coder/project/workspace/Project/src/test/java/pages/NykaaLuxeProduct.java

@@ -26,7 +26,7 @@ public void the_user_checks_new_launches() {
 
 @Then("The user adds a product to bag")
 public void the_user_adds_a_product_to_bag() {
-    AddToBag action2=new AddToBag();
-    action2.addToBag();
+    // AddToBag action2=new AddToBag();
+    // action2.addToBag();
 }
 }

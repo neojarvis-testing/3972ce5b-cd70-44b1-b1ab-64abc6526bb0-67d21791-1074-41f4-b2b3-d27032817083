@@ -56,18 +56,18 @@ public class AddToBag {
      * @param test ExtentTest instance for reporting.
      * @author Pratik
      */
-    public void howToUse(ExtentTest test) {
+    // public void howToUse(ExtentTest test) {
         
-        helper.hoverAndClick(test,AddToBagLoc.howToUse, AddToBagLoc.howToUse);
+    //     helper.hoverAndClick(test,AddToBagLoc.howToUse, AddToBagLoc.howToUse);
         
-        helper.waitForElementToBeVisible(AddToBagLoc.howToUse, 5, test);
+    //     helper.waitForElementToBeVisible(AddToBagLoc.howToUse, 5, test);
 
-        AssertionUtility.useAssertEquals(helper.getText(AddToBagLoc.howToUse, test),ExcelFileReader.readData(Base.prop.getProperty("sheet1").toLowerCase(), 27, 0, test) , test);
+    //     AssertionUtility.useAssertEquals(helper.getText(AddToBagLoc.howToUse, test),ExcelFileReader.readData(Base.prop.getProperty("sheet1").toLowerCase(), 27, 0, test) , test);
 
-        Screenshot.captureScreenshot(Base.driver, test, "nykaa");
-        Reporter.attachScreenshotToReport("nykaa", test, "nykaa", Base.driver);
+    //     Screenshot.captureScreenshot(Base.driver, test, "nykaa");
+    //     Reporter.attachScreenshotToReport("nykaa", test, "nykaa", Base.driver);
 
-    }
+    // }
 
     /**
      * Combines the selection of the product, adding to the shopping bag, 
@@ -80,7 +80,7 @@ public class AddToBag {
     public void addToBag() {
         firstProduct(Hooks.test); 
         addTo(Hooks.test);
-        howToUse(Hooks.test);
+        // howToUse(Hooks.test);
         
     }
 

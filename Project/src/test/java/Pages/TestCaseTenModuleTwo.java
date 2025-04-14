@@ -35,7 +35,7 @@ public class TestCaseTenModuleTwo {
               catch(Exception e){
                 e.printStackTrace();
               }
-            wb.switchToWindow(1,Hooks.test);
+            wb.switchToWindow(2,Hooks.test);
             try{
                 Thread.sleep(2000);
               }

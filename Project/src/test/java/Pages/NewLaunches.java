@@ -32,6 +32,7 @@ public class NewLaunches {
         }
         
         helper.switchToWindow(1, Hooks.test);
+        
         helper.waitForElementToBeVisible(NewLaunchesLoc.newLaunchesVerify, 5, Hooks.test);
         AssertionUtility.useAssertEquals(helper.getText(NewLaunchesLoc.newLaunchesVerify,Hooks.test),ExcelFileReader.readData(Base.prop.getProperty("sheet1"), 26, 0, Hooks.test) , Hooks.test);
 
