@@ -81,6 +81,7 @@ public class WebDriverHelper {
             webElement.click();
             LoggerHandler.info("Clicked"); 
             test.log(Status.INFO, "Clicked"); 
+            
         } catch (Exception e) {
             LoggerHandler.info("Element not clicked :"+e.getMessage());
             test.log(Status.FAIL, "Element not clicked :"+e.getMessage()); 
