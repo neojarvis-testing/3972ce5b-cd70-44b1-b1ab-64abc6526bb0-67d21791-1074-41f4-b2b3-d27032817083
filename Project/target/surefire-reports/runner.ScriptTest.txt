@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.ScriptTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 231.481 s <<< FAILURE! - in runner.ScriptTest
+Nykaa Luxe navigation and product filtering(Nykaa Luxe Operations)  Time elapsed: 25.505 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+

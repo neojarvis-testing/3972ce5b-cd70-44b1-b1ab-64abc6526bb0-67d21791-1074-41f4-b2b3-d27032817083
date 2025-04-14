@@ -1,0 +1,1034 @@
+2025-04-14 10:15:20,937 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:15:20,994 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:15:21,172 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:21,448 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:21,545 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:21,617 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:22,381 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:22,432 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:15:24,302 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:15:24,304 INFO  utils.LoggerHandler - Verification Successful: Nykaa Luxe 
+2025-04-14 10:15:24,342 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:24,463 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:24,500 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:24,516 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:24,649 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:24,677 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:24,814 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:24,847 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:24,866 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:25,008 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:25,047 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:25,231 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:25,312 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:25,522 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:25,719 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:25,740 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:25,880 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:25,913 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:25,932 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:26,074 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:26,220 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:15:26,221 INFO  utils.LoggerHandler - Verification Successful: Unisex
+2025-04-14 10:15:26,323 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:26,602 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:27,469 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:27,491 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:27,600 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:27,617 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:27,730 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:27,754 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:27,767 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:27,907 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:28,620 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:29,015 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:29,044 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:29,063 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:29,207 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:29,240 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:15:29,241 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:15:30,086 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:15:30,632 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:30,913 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:30,948 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:30,971 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:31,193 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:31,227 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:15:32,527 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:32,815 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:33,007 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:33,032 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:37,678 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:37,706 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:37,911 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:38,026 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:38,097 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:38,299 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:38,356 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:15:38,356 INFO  utils.LoggerHandler - Verification Successful: SHAVING & BEARD CARE
+2025-04-14 10:15:41,912 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:15:41,936 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:42,398 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:42,412 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:42,792 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:43,008 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:48,130 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:48,159 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:48,172 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:48,336 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:48,428 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:50,208 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:50,269 INFO  utils.LoggerHandler - Shop New Launches : true
+2025-04-14 10:15:50,284 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:50,349 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:50,371 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:15:50,515 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:15:50,549 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:15:50,570 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:50,780 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:52,831 INFO  utils.LoggerHandler - Buy Natural Face Wash Online : true
+2025-04-14 10:15:52,898 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:53,095 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:53,126 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:53,322 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:53,488 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:54,001 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:55,535 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:55,811 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:15:57,834 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:15:57,845 INFO  utils.LoggerHandler - send Keys :620001
+2025-04-14 10:15:57,882 INFO  utils.LoggerHandler - sent Keys 620001 to Enter pincode
+2025-04-14 10:15:57,903 INFO  utils.LoggerHandler - Click
+2025-04-14 10:15:58,107 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:03,120 INFO  utils.LoggerHandler - The text is not highlightedno such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Ingredients']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [a503ea21def5d8c54d587c4fc795ccce, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a503ea21def5d8c54d587c4fc795ccce
+2025-04-14 10:16:03,287 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:03,319 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:03,331 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:03,443 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:03,458 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:03,618 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:03,618 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:08,633 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.cssSelector: p[class='css-1v1x2g9 e171rb9k0'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$dT9LBJ9T
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a503ea21def5d8c54d587c4fc795ccce
+2025-04-14 10:16:08,713 INFO  utils.LoggerHandler - Bag: true
+2025-04-14 10:16:08,720 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:08,741 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:08,763 INFO  utils.LoggerHandler - The element has changed its color
+2025-04-14 10:16:11,653 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:11,864 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:11,904 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:16:11,920 INFO  utils.LoggerHandler - send Keys :TONER
+2025-04-14 10:16:11,959 INFO  utils.LoggerHandler - sent Keys TONER to Search on Nykaa
+2025-04-14 10:16:11,972 INFO  utils.LoggerHandler - Enter on Keyboard
+2025-04-14 10:16:13,292 INFO  utils.LoggerHandler - Enter on Keyboard performed
+2025-04-14 10:16:13,419 INFO  utils.LoggerHandler - Buy Skin Toners & Mist Online : true
+2025-04-14 10:16:13,440 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:13,553 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:13,585 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:13,982 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:14,013 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:14,315 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:14,388 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:14,634 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:15,108 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:15,290 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:15,313 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:16:17,406 INFO  utils.LoggerHandler - : true
+2025-04-14 10:16:27,471 INFO  utils.LoggerHandler - The text is not highlightedno such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Ingredients']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2b53d5557ae70fccb431a2f6314dc5db, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2b53d5557ae70fccb431a2f6314dc5db
+2025-04-14 10:16:27,694 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:27,695 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-vp18r8']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,696 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-vp18r8']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,697 INFO  utils.LoggerHandler - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=h2[class='css-3db1zm']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,697 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:27,698 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,698 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:16:27,699 INFO  utils.LoggerHandler - scroll down to footerSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=window.scrollBy(0,80000), args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,699 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:27,700 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,701 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,701 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,702 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:27,702 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[contains(text() , 'Read ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:27,703 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[contains(text() , 'Read ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:16:37,755 INFO  utils.LoggerHandler - The text is not highlightedno such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Ingredients']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2b53d5557ae70fccb431a2f6314dc5db, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2b53d5557ae70fccb431a2f6314dc5db
+2025-04-14 10:16:40,908 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:16:41,027 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:41,053 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:41,065 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:41,208 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:41,239 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:16:41,239 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:43,337 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:43,361 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:16:43,420 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:16:43,441 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:43,561 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:45,585 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:16:45,595 INFO  utils.LoggerHandler - send Keys :9123456789
+2025-04-14 10:16:45,636 INFO  utils.LoggerHandler - sent Keys 9123456789 to Enter Your Mobile Number
+2025-04-14 10:16:47,636 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:16:47,644 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:47,726 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:47,786 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:48,082 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:48,112 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:16:48,130 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:16:49,438 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:16:49,489 INFO  utils.LoggerHandler - Verification Successful: Terms & Conditions
+
+2025-04-14 10:16:49,510 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:16:49,810 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:49,834 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:49,846 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:50,011 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:50,023 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:16:50,051 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:16:50,074 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:50,190 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:50,205 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:16:50,223 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:16:50,232 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:50,262 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:52,262 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:16:52,355 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:16:52,510 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:52,537 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:52,554 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:52,704 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:52,704 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:16:52,739 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:16:52,759 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:16:54,611 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:16:54,614 INFO  utils.LoggerHandler - Verification Successful: https://www.nykaa.com/sp/offers-native/offers?utm_source=Desktop_web_footer
+2025-04-14 10:16:59,015 INFO  utils.LoggerHandler - Click
+2025-04-14 10:16:59,178 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:16:59,201 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:16:59,202 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:00,575 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:00,587 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:00,720 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:02,720 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:02,757 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:02,770 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:02,880 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:06,892 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:06,923 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:06,936 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:07,101 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:07,214 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:11,226 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:11,251 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:11,262 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:11,394 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:11,496 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:11,496 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:11,899 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:11,910 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:12,024 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:12,024 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:12,428 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:12,438 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:12,547 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:12,616 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:17:16,108 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:17:16,135 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:17:16,135 INFO  utils.LoggerHandler - Verification Successful: Categories
+2025-04-14 10:17:16,175 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:17:16,190 INFO  utils.LoggerHandler - Click Search on Nykaa
+2025-04-14 10:17:16,327 INFO  utils.LoggerHandler - Clicked on Search on Nykaa
+2025-04-14 10:17:18,337 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:17:18,360 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:17:18,373 INFO  utils.LoggerHandler - send Keys :Kajal
+2025-04-14 10:17:18,402 INFO  utils.LoggerHandler - sent Keys Kajal to Search on Nykaa
+2025-04-14 10:17:18,414 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:17:18,432 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:17:18,432 INFO  utils.LoggerHandler - Verification Successful: 
+2025-04-14 10:17:19,990 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:17:20,018 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:17:20,018 INFO  utils.LoggerHandler - Verification Successful: Buy Eye Kajal Online 
+2025-04-14 10:17:20,284 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:20,424 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:20,453 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:20,468 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:20,584 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:20,637 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:20,808 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:20,842 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:20,857 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:21,010 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:21,011 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:17:21,049 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:21,289 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:21,784 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:23,802 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:17:23,802 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:23,849 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:23,884 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:17:23,912 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:17:23,912 INFO  utils.LoggerHandler - Verification Successful: New Launches 
+2025-04-14 10:17:26,518 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:26,635 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:26,649 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:26,821 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:26,849 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:17:26,883 INFO  utils.LoggerHandler - send Keys :Kurtas
+2025-04-14 10:17:26,915 INFO  utils.LoggerHandler - sent Keys Kurtas to Search on Nykaa
+2025-04-14 10:17:26,928 INFO  utils.LoggerHandler - Enter on Keyboard
+2025-04-14 10:17:28,528 INFO  utils.LoggerHandler - Enter on Keyboard performed
+2025-04-14 10:17:28,529 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:28,700 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:28,725 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:28,748 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:28,759 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:33,964 INFO  utils.LoggerHandler - Element not clicked :no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class = 'css-drjr1k']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [8ac7db1df66c725dcf9f6df2d1440d97, findElement {using=xpath, value=//button[@class = 'css-drjr1k']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:43067}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8ac7db1df66c725dcf9f6df2d1440d97
+2025-04-14 10:17:33,981 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:34,107 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:34,128 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:34,137 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:34,294 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:34,294 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:34,498 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:34,690 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:34,903 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:34,923 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:34,933 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:35,072 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:35,093 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:17:40,094 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:40,126 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:40,138 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:40,283 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:40,479 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:40,513 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:40,526 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:40,659 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:40,673 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:40,791 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:40,813 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:40,832 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:40,969 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:41,084 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:41,230 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:41,251 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:41,262 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:41,382 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:45,398 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:45,519 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:49,540 INFO  utils.LoggerHandler - name
+2025-04-14 10:17:49,551 INFO  utils.LoggerHandler - send Keys :9876543210
+2025-04-14 10:17:49,594 INFO  utils.LoggerHandler - sent Keys 9876543210 to mobileInput
+2025-04-14 10:17:53,594 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:53,619 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:53,630 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:53,787 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:54,021 INFO  utils.LoggerHandler - Login Page
+2025-04-14 10:17:58,837 INFO  utils.LoggerHandler - Click
+2025-04-14 10:17:58,984 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:17:59,008 INFO  utils.LoggerHandler - Lipstick
+2025-04-14 10:17:59,022 INFO  utils.LoggerHandler - send Keys :Lipstick
+2025-04-14 10:17:59,063 INFO  utils.LoggerHandler - sent Keys Lipstick to null
+2025-04-14 10:17:59,351 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:17:59,473 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:17:59,497 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:17:59,508 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:01,101 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:01,118 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:01,423 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:01,527 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:01,542 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:01,672 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:01,695 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:01,711 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:01,851 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:01,851 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:02,069 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:04,083 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:04,223 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:04,246 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:04,260 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:04,386 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:04,412 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:18:04,412 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:05,685 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:06,092 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:06,317 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:06,317 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:11,360 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.xpath: //option[text()='Vacation Nude'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$t4w8Jb5u
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46805}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c4fd25ed2967722581e89ee19f1708a
+2025-04-14 10:18:16,381 INFO  utils.LoggerHandler - Element not clicked :no such element: Unable to locate element: {"method":"xpath","selector":"//option[text()='Vacation Nude']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [1c4fd25ed2967722581e89ee19f1708a, findElement {using=xpath, value=//option[text()='Vacation Nude']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46805}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c4fd25ed2967722581e89ee19f1708a
+2025-04-14 10:18:16,382 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:18:16,393 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:17,504 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:17,797 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:18,247 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:18,382 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:18,414 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:18:18,414 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:19,840 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:19,852 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:19,997 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:19,997 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:20,462 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:20,474 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:20,598 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:20,598 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:20,954 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:20,968 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:21,089 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:24,132 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:18:24,193 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:18:24,586 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:24,784 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:24,881 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:24,918 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:25,294 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:25,319 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:18:27,013 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:18:27,013 INFO  utils.LoggerHandler - Verification Successful: Nykaa Luxe 
+2025-04-14 10:18:27,028 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:27,155 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:27,179 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:27,191 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:27,325 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:27,348 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:27,506 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:27,532 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:27,548 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:27,697 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:27,724 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:27,930 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:28,033 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:28,200 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:28,370 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:28,390 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:28,522 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:28,545 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:28,558 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:28,694 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:28,741 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:18:28,741 INFO  utils.LoggerHandler - Verification Successful: Unisex
+2025-04-14 10:18:28,820 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:29,184 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:29,298 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:29,406 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:30,306 INFO  utils.LoggerHandler - Element not clicked :stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [93dffe5c5f3730c0fcb0c85ef8e797ac, clickElement {id=f.A61B4314181067C539018CEBB692EB92.d.AFB0864B1CDA398B7F510DAE3DDF78E8.e.65}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (93dffe5c5f3730c0fcb0c85ef8e797ac)] -> xpath: (//div[@class='css-w2222k'])[16]]
+Session ID: 93dffe5c5f3730c0fcb0c85ef8e797ac
+2025-04-14 10:18:35,343 INFO  utils.LoggerHandler - Failed to Hover to the Elementno such element: Unable to locate element: {"method":"css selector","selector":"[for='checkbox_Day Wear_212287']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [93dffe5c5f3730c0fcb0c85ef8e797ac, findElement {using=css selector, value=[for='checkbox_Day Wear_212287']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93dffe5c5f3730c0fcb0c85ef8e797ac
+2025-04-14 10:18:35,343 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:40,361 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.cssSelector: [for='checkbox_Day Wear_212287'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$tSBbVWt9
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93dffe5c5f3730c0fcb0c85ef8e797ac
+2025-04-14 10:18:45,419 INFO  utils.LoggerHandler - Element not clicked :no such element: Unable to locate element: {"method":"css selector","selector":"[for='checkbox_Day Wear_212287']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [93dffe5c5f3730c0fcb0c85ef8e797ac, findElement {using=css selector, value=[for='checkbox_Day Wear_212287']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93dffe5c5f3730c0fcb0c85ef8e797ac
+2025-04-14 10:18:45,438 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:18:45,593 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:45,620 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:45,634 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:46,764 INFO  utils.LoggerHandler - Element not clicked :element click intercepted: Element <div class="css-ifdzs8">...</div> is not clickable at point (800, 77). Other element would receive the click: <a>...</a>
+  (Session info: chrome=135.0.7049.52)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [93dffe5c5f3730c0fcb0c85ef8e797ac, clickElement {id=f.A61B4314181067C539018CEBB692EB92.d.AFB0864B1CDA398B7F510DAE3DDF78E8.e.74}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (93dffe5c5f3730c0fcb0c85ef8e797ac)] -> xpath: (//div[@class='css-ifdzs8'])[1]]
+Session ID: 93dffe5c5f3730c0fcb0c85ef8e797ac
+2025-04-14 10:18:51,691 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:18:51,698 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:52,105 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:52,105 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:18:52,114 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:18:52,183 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:18:52,183 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:18:52,204 INFO  utils.LoggerHandler - Click
+2025-04-14 10:18:52,397 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:18:57,105 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:19:02,256 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:02,423 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:06,438 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:19:08,463 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:19:08,493 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:19:08,493 INFO  utils.LoggerHandler - Verification Successful: 3
+2025-04-14 10:19:08,493 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:19:08,621 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:08,810 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:08,810 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:08,841 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:08,859 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:19:09,008 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:14,020 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder='Enter pincode'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$myIAveOc
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38497}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aa1201e0217c9c5675192c126ee21782
+2025-04-14 10:19:14,035 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:14,208 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:16,223 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:19:18,243 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:18,386 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:18,418 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:19:18,435 INFO  utils.LoggerHandler - send Keys :600001
+2025-04-14 10:19:18,525 INFO  utils.LoggerHandler - sent Keys 600001 to Enter pincode
+2025-04-14 10:19:18,592 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:18,788 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:19,209 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:19:19,230 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:19:19,230 INFO  utils.LoggerHandler - Verification Successful:  Chennai, India
+2025-04-14 10:19:24,267 INFO  utils.LoggerHandler - class Attribute value is not fetched  :no such element: Unable to locate element: {"method":"css selector","selector":"button[class='css-1iyo5pu']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [aa1201e0217c9c5675192c126ee21782, findElement {using=css selector, value=button[class='css-1iyo5pu']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38497}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aa1201e0217c9c5675192c126ee21782
+2025-04-14 10:19:24,269 INFO  utils.LoggerHandler - The screen is scrolled to 
+2025-04-14 10:19:29,297 INFO  utils.LoggerHandler - The screen is not scrolled to that Element no such element: Unable to locate element: {"method":"css selector","selector":"button[class='css-1iyo5pu']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [aa1201e0217c9c5675192c126ee21782, findElement {using=css selector, value=button[class='css-1iyo5pu']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38497}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aa1201e0217c9c5675192c126ee21782
+2025-04-14 10:19:29,299 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:19:29,518 INFO  utils.LoggerHandler - Hover to the Element
+2025-04-14 10:19:29,785 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:29,812 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:29,825 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:31,711 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:31,782 INFO  utils.LoggerHandler - Get Text 
+2025-04-14 10:19:31,804 INFO  utils.LoggerHandler - Value fetched from Excel
+2025-04-14 10:19:31,805 INFO  utils.LoggerHandler - Verification Successful: Sign in
+2025-04-14 10:19:36,336 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:36,419 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:36,437 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:36,590 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:36,621 INFO  utils.LoggerHandler - placeholder
+2025-04-14 10:19:36,635 INFO  utils.LoggerHandler - send Keys :Pillow
+2025-04-14 10:19:36,681 INFO  utils.LoggerHandler - sent Keys Pillow to Search on Nykaa
+2025-04-14 10:19:36,695 INFO  utils.LoggerHandler - Enter on Keyboard
+2025-04-14 10:19:37,692 INFO  utils.LoggerHandler - Enter on Keyboard performed
+2025-04-14 10:19:37,693 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:38,097 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:38,141 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:38,276 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:38,276 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:42,495 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id = 'checkbox_Rs. 1000 - Rs. 1999_1000-1999'] (tried for 4 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$8CYVi33y
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45171}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb9567a84e76de76daa7745cb9d5115e
+2025-04-14 10:19:42,510 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:43,701 INFO  utils.LoggerHandler - Element not clicked :element click intercepted: Element <input id="checkbox_Rs. 1000 - Rs. 1999_1000-1999" type="checkbox"> is not clickable at point (382, 536). Other element would receive the click: <span class="title">...</span>
+  (Session info: chrome=135.0.7049.52)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [fb9567a84e76de76daa7745cb9d5115e, clickElement {id=f.3A8E6F33E389CAE31849C21E9B96975E.d.2874E318CC9188310B56D55ABCB5F224.e.98}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45171}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (fb9567a84e76de76daa7745cb9d5115e)] -> xpath: //input[@id = 'checkbox_Rs. 1000 - Rs. 1999_1000-1999']]
+Session ID: fb9567a84e76de76daa7745cb9d5115e
+2025-04-14 10:19:43,701 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:43,730 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:43,746 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:43,887 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:43,887 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:48,116 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id = 'radio_50% and above_50-*'] (tried for 4 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$8CYVi33y
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45171}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb9567a84e76de76daa7745cb9d5115e
+2025-04-14 10:19:48,128 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:49,259 INFO  utils.LoggerHandler - Element not clicked :element click intercepted: Element <input id="radio_50% and above_50-*" type="radio"> is not clickable at point (382, 822). Other element would receive the click: <span class="title">...</span>
+  (Session info: chrome=135.0.7049.52)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [fb9567a84e76de76daa7745cb9d5115e, clickElement {id=f.3A8E6F33E389CAE31849C21E9B96975E.d.2874E318CC9188310B56D55ABCB5F224.e.104}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45171}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (fb9567a84e76de76daa7745cb9d5115e)] -> xpath: //input[@id = 'radio_50% and above_50-*']]
+Session ID: fb9567a84e76de76daa7745cb9d5115e
+2025-04-14 10:19:49,259 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:49,286 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:49,299 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:49,406 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:49,406 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:53,634 INFO  utils.LoggerHandler - Element not visible :Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id = 'radio_4 stars & above_4'] (tried for 4 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: net.bytebuddy.renamed.java.lang.Object$ByteBuddy$8CYVi33y
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45171}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb9567a84e76de76daa7745cb9d5115e
+2025-04-14 10:19:53,650 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:54,784 INFO  utils.LoggerHandler - Element not clicked :element click intercepted: Element <input id="radio_4 stars &amp; above_4" type="radio"> is not clickable at point (382, 913). Other element would receive the click: <span class="title">...</span>
+  (Session info: chrome=135.0.7049.52)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [fb9567a84e76de76daa7745cb9d5115e, clickElement {id=f.3A8E6F33E389CAE31849C21E9B96975E.d.2874E318CC9188310B56D55ABCB5F224.e.112}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45171}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (fb9567a84e76de76daa7745cb9d5115e)] -> xpath: //input[@id = 'radio_4 stars & above_4']]
+Session ID: fb9567a84e76de76daa7745cb9d5115e
+2025-04-14 10:19:54,784 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:19:54,821 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:19:54,834 INFO  utils.LoggerHandler - Click
+2025-04-14 10:19:54,957 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:19:54,998 INFO  utils.LoggerHandler - switch to new window
+2025-04-14 10:19:59,999 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:00,034 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:20:00,046 INFO  utils.LoggerHandler - Click
+2025-04-14 10:20:00,199 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:20:00,199 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:00,227 INFO  utils.LoggerHandler - Waited for to be visible
+2025-04-14 10:20:00,243 INFO  utils.LoggerHandler - Click
+2025-04-14 10:20:00,378 INFO  utils.LoggerHandler - Clicked
+2025-04-14 10:20:03,494 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:20:03,495 INFO  utils.LoggerHandler - scroll down to footerSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=window.scrollBy(0,80000), args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,496 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:03,496 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=a[href='/shop-new-launches/c/53665?utm_source=Desktop_web_footer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,497 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=a[href='/shop-new-launches/c/53665?utm_source=Desktop_web_footer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,497 INFO  utils.LoggerHandler - Failed to Hover to the ElementSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=a[href='/shop-new-launches/c/53665?utm_source=Desktop_web_footer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,498 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:03,498 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=a[href='/shop-new-launches/c/53665?utm_source=Desktop_web_footer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,499 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=a[href='/shop-new-launches/c/53665?utm_source=Desktop_web_footer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,504 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:03,504 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=h1[class='css-c0pzm0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,505 INFO  utils.LoggerHandler - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=h1[class='css-c0pzm0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,505 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:03,506 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//a[text()='Natural']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,506 INFO  utils.LoggerHandler - Failed to Hover to the ElementSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//a[text()='Natural']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,506 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:03,507 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//a[text()=' Face Wash']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,507 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//a[text()=' Face Wash']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,512 INFO  utils.LoggerHandler - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=h1[class='css-c0pzm0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,512 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[text()='Price']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,512 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[text()='Rs. 1000 - Rs. 1999']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,516 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=(//div[@class='css-ifdzs8'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:03,520 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='pin code']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:05,521 INFO  utils.LoggerHandler - placeholder Attribute value is not fetched  :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='pin code']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:05,524 INFO  utils.LoggerHandler - 620001 is not sent to  :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='pin code']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:05,524 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//button[text()='Check']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:10,565 INFO  utils.LoggerHandler - The text is not highlightedno such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Ingredients']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [9f8e95c841c7db3ea8cb9d64a822936c, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35861}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f8e95c841c7db3ea8cb9d64a822936c
+2025-04-14 10:20:10,869 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:10,870 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-vp18r8']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:10,870 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-vp18r8']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:10,870 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=id, value=header-bag-icon}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:10,871 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:10,871 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=p[class='css-1v1x2g9 e171rb9k0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:15,913 INFO  utils.LoggerHandler - no such element: Unable to locate element: {"method":"css selector","selector":"iframe[class='css-wlxg94']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [9f8e95c841c7db3ea8cb9d64a822936c, findElement {using=css selector, value=iframe[class='css-wlxg94']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35861}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f8e95c841c7db3ea8cb9d64a822936c
+2025-04-14 10:20:18,805 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='search-suggestions-nykaa']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,806 INFO  utils.LoggerHandler - placeholder Attribute value is not fetched  :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='search-suggestions-nykaa']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,806 INFO  utils.LoggerHandler - TONER is not sent to  :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='search-suggestions-nykaa']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,807 INFO  utils.LoggerHandler - Enter on Keyboard not performedSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=input[name='search-suggestions-nykaa']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,807 INFO  utils.LoggerHandler - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h1[text()='Buy Skin Toners & Mist Online']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,807 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=button[class=' css-1aucgde']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,807 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[text()='new arrivals']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,808 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=(//div[@class='filter-open css-1gdff5r'])[8]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,808 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[contains(text(), '4 stars')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,808 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=(//a[@class='css-qlopj4'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:18,814 INFO  utils.LoggerHandler - Index 1 out of bounds for length 1
+2025-04-14 10:20:18,814 INFO  utils.LoggerHandler - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-1c4feqy']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:23,835 INFO  utils.LoggerHandler - The text is not highlightedno such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Ingredients']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f08f81fcec58c6cd7dbeaccaab401d5e, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36223}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f08f81fcec58c6cd7dbeaccaab401d5e
+2025-04-14 10:20:24,143 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:24,144 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-vp18r8']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,144 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=div[class='css-vp18r8']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,144 INFO  utils.LoggerHandler - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=css selector, value=h2[class='css-3db1zm']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,144 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:24,145 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,145 INFO  utils.LoggerHandler - scroll down to footer
+2025-04-14 10:20:24,145 INFO  utils.LoggerHandler - scroll down to footerSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=window.scrollBy(0,80000), args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,145 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:24,146 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,146 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,146 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,147 INFO  utils.LoggerHandler - Wait for the Element  to be visible
+2025-04-14 10:20:24,147 INFO  utils.LoggerHandler - Element not visible :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[contains(text() , 'Read ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:24,147 INFO  utils.LoggerHandler - Element not clicked :Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[contains(text() , 'Read ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-04-14 10:20:29,199 INFO  utils.LoggerHandler - The text is not highlightedno such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Ingredients']"}
+  (Session info: chrome=135.0.7049.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.1.123+', java.version: '11.0.26'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f08f81fcec58c6cd7dbeaccaab401d5e, findElement {using=xpath, value=//h3[text()='Ingredients']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.52, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36223}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://10.80.33.5:4444/sessio..., se:cdpVersion: 135.0.7049.52, se:containerName: acaeffcebfbcfbddddcdfbbd-0, se:noVncPort: 7900, se:vnc: ws://10.80.33.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://10.80.33.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f08f81fcec58c6cd7dbeaccaab401d5e
